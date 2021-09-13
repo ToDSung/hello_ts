@@ -99,4 +99,4 @@ justAnObject = new Number(123)
 justAnObject = Object
 justAnObject = Array
 
-// 通常在使用物件時，不太需要去註記變數是一個 object
+// 通常在使用物件時，不太需要主動註記變數是一個 object
