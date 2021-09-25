@@ -37,6 +37,6 @@ let objectArray3 = [
 
 
 // 結論: 對 Array 而言，大部分情況下，型別推論，都會將所有可能列出來
-
 // 但要切記為了避免出現 any，因此我們必須積極地給予型別
+
 let emptyArray = []
