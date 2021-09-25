@@ -22,3 +22,7 @@ let doesItWork1 = () => undefined;
 let doesItWork2 = (): undefined => undefined;
 let doesItWork3 = (): undefined => {};
 let doesItWork4 = (): void => {};
+
+let numbers_array = [1, 2, 3, 4, 5];
+// callback function 不用給定型別
+numbers_array.map(num => num * 2)
